@@ -1,0 +1,11 @@
+body{background-color: lightgrey;}
+
+.lol{
+font-size: 60px;
+}
+.uppercase{text-transform: uppercase;}
+.big.uppercase{color: navy}	
+h1{font-size: 30px;
+		color: teal;}
+h2{color: greenyellow};
+h1 span{color: blueviolet;}
